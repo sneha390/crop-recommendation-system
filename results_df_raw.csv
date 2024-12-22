@@ -1,0 +1,4 @@
+,Model,Accuracy
+2,Random Forest,0.14705882352941177
+1,Support Vector Machine,0.1323529411764706
+0,Logistic Regression,0.12254901960784313
